@@ -1,6 +1,6 @@
-# Othello-UniversityProject
-play demo: random cpu paly with another random cpu
-two player mode: play two player
-cpu easy: random cpu play
-cpu normal: best move (get more point)
-cpu hard: best move + more value for surrounding houses
+# Othello-UniversityProject\n
+play demo: random cpu paly with another random cpu\n
+two player mode: play two player\n
+cpu easy: random cpu play\n
+cpu normal: best move (get more point)\n
+cpu hard: best move + more value for surrounding houses\n
